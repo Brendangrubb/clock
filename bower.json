@@ -1,0 +1,17 @@
+{
+  "name": "alarm-clock",
+  "description": "practice with moment and ajax",
+  "main": "index.js",
+  "authors": [
+    "Brendan Grubb"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
